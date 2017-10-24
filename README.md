@@ -70,4 +70,5 @@ Trabalho de Arvore B+ do Leandro
     E suas alterações serão enviadas para o servidor do GitHub.
   9) **TIRAR 10 NO TRABALHO**
     - Fazendo isso temos um Controle de Versão ótimo, que deixaria a Rogéria orgulhosíssima de seus pupilos de Engenharia de Software! O Leandro ia bater palmas, e o Guilherme ia ficar embasbacado porque a gente sabe usar git e ele não. (Ou será que sabe?)
+
 **Data de entrega: 15/11/17**
