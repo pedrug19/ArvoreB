@@ -1,0 +1,103 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+adjust_root	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * adjust_root(node * root) {$/;"	f	language:C++
+adjust_root	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * adjust_root(node * root);$/;"	p	language:C++	file:
+arq	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	FILE *arq;$/;"	m	language:C++	struct:node	file:
+bool	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	72;"	d	language:C++	file:
+coalesce_nodes	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * coalesce_nodes(node * root, node * n, node * neighbor, int neighbor_index, int k_prime) {$/;"	f	language:C++
+coalesce_nodes	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * coalesce_nodes(node * root, node * n, node * neighbor,$/;"	p	language:C++	file:
+cut	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int cut( int length ) {$/;"	f	language:C++
+cut	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int cut( int length );$/;"	p	language:C++	file:
+DEFAULT_ORDER	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	78;"	d	language:C++	file:
+delete_entry	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * delete_entry( node * root, node * n, int key, void * pointer ) {$/;"	f	language:C++
+delete_entry	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * delete_entry( node * root, node * n, int key, void * pointer );$/;"	p	language:C++	file:
+dequeue	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * dequeue( void ) {$/;"	f	language:C++
+dequeue	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * dequeue( void );$/;"	p	language:C++	file:
+destroy_tree	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * destroy_tree(node * root) {$/;"	f	language:C++
+destroy_tree_nodes	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void destroy_tree_nodes(node * root) {$/;"	f	language:C++
+enqueue	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void enqueue( node * new_node ) {$/;"	f	language:C++
+enqueue	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void enqueue( node * new_node );$/;"	p	language:C++	file:
+false	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	73;"	d	language:C++	file:
+find	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^record * find( node * root, int key, bool verbose ) {$/;"	f	language:C++
+find	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^record * find( node * root, int key, bool verbose );$/;"	p	language:C++	file:
+find_and_print	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void find_and_print(node * root, int key, bool verbose) {$/;"	f	language:C++
+find_and_print	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void find_and_print(node * root, int key, bool verbose); $/;"	p	language:C++	file:
+find_and_print_range	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void find_and_print_range( node * root, int key_start, int key_end,$/;"	f	language:C++
+find_and_print_range	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void find_and_print_range(node * root, int range1, int range2, bool verbose); $/;"	p	language:C++	file:
+find_leaf	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * find_leaf( node * root, int key, bool verbose ) {$/;"	f	language:C++
+find_leaf	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * find_leaf( node * root, int key, bool verbose );$/;"	p	language:C++	file:
+find_range	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int find_range( node * root, int key_start, int key_end, bool verbose,$/;"	f	language:C++
+find_range	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int find_range( node * root, int key_start, int key_end, bool verbose,$/;"	p	language:C++	file:
+get_left_index	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int get_left_index(node * parent, node * left) {$/;"	f	language:C++
+get_left_index	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int get_left_index(node * parent, node * left);$/;"	p	language:C++	file:
+get_neighbor_index	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int get_neighbor_index( node * n ) {$/;"	f	language:C++
+get_neighbor_index	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int get_neighbor_index( node * n );$/;"	p	language:C++	file:
+height	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int height( node * root ) {$/;"	f	language:C++
+height	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int height( node * root );$/;"	p	language:C++	file:
+id_pag	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	char id_pag[20];$/;"	m	language:C++	struct:node	file:
+insert	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert( node * root, int key, int value ) {$/;"	f	language:C++
+insert	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert( node * root, int key, int value );$/;"	p	language:C++	file:
+insert_into_leaf	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_leaf( node * leaf, int key, record * pointer , int idade) {$/;"	f	language:C++
+insert_into_leaf	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_leaf( node * leaf, int key, record * pointer, int idade);$/;"	p	language:C++	file:
+insert_into_leaf_after_splitting	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_leaf_after_splitting(node * root, node * leaf, int key, record * pointer) {$/;"	f	language:C++
+insert_into_leaf_after_splitting	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_leaf_after_splitting(node * root, node * leaf, int key,$/;"	p	language:C++	file:
+insert_into_new_root	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_new_root(node * left, int key, node * right) {$/;"	f	language:C++
+insert_into_new_root	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_new_root(node * left, int key, node * right);$/;"	p	language:C++	file:
+insert_into_node	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_node(node * root, node * n, $/;"	f	language:C++
+insert_into_node	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_node(node * root, node * parent, $/;"	p	language:C++	file:
+insert_into_node_after_splitting	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_node_after_splitting(node * root, node * old_node, int left_index, $/;"	f	language:C++
+insert_into_node_after_splitting	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_node_after_splitting(node * root, node * parent,$/;"	p	language:C++	file:
+insert_into_parent	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_parent(node * root, node * left, int key, node * right) {$/;"	f	language:C++
+insert_into_parent	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * insert_into_parent(node * root, node * left, int key, node * right);$/;"	p	language:C++	file:
+is_leaf	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	bool is_leaf;$/;"	m	language:C++	struct:node	file:
+keys	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	int * keys;$/;"	m	language:C++	struct:node	file:
+LICENSE_CONDITIONS	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	90;"	d	language:C++	file:
+LICENSE_CONDITIONS_END	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	92;"	d	language:C++	file:
+LICENSE_CONDITIONS_START	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	91;"	d	language:C++	file:
+LICENSE_FILE	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	86;"	d	language:C++	file:
+license_notice	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void license_notice( void ) {$/;"	f	language:C++
+license_notice	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void license_notice( void );$/;"	p	language:C++	file:
+LICENSE_WARRANTEE	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	87;"	d	language:C++	file:
+LICENSE_WARRANTEE_END	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	89;"	d	language:C++	file:
+LICENSE_WARRANTEE_START	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	88;"	d	language:C++	file:
+main	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int main(\/* int argc, char ** argv *\/) {$/;"	f	language:C++
+make_leaf	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * make_leaf( void ) {$/;"	f	language:C++
+make_leaf	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * make_leaf( void );$/;"	p	language:C++	file:
+make_node	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * make_node( void ) {$/;"	f	language:C++
+make_node	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * make_node( void );$/;"	p	language:C++	file:
+make_record	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^record * make_record(int value) {$/;"	f	language:C++
+make_record	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^record * make_record(int value);$/;"	p	language:C++	file:
+MAX_ORDER	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	83;"	d	language:C++	file:
+MIN_ORDER	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	82;"	d	language:C++	file:
+next	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	struct node * next; \/\/ Used for queue.$/;"	m	language:C++	struct:node	typeref:struct:node::node	file:
+node	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^typedef struct node {$/;"	s	language:C++	file:
+node	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^} node;$/;"	t	language:C++	typeref:struct:node	file:
+num_keys	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	int num_keys;$/;"	m	language:C++	struct:node	file:
+order	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int order = DEFAULT_ORDER;$/;"	v	language:C++
+parent	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	struct node * parent;$/;"	m	language:C++	struct:node	typeref:struct:node::node	file:
+path_to_root	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int path_to_root( node * root, node * child ) {$/;"	f	language:C++
+path_to_root	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^int path_to_root( node * root, node * child );$/;"	p	language:C++	file:
+pointers	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	void ** pointers;$/;"	m	language:C++	struct:node	file:
+print_leaves	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void print_leaves( node * root ) {$/;"	f	language:C++
+print_leaves	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void print_leaves( node * root );$/;"	p	language:C++	file:
+print_license	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void print_license( int licence_part );$/;"	p	language:C++	file:
+print_license	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void print_license( int license_part ) {$/;"	f	language:C++
+print_tree	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void print_tree( node * root ) {$/;"	f	language:C++
+print_tree	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void print_tree( node * root );$/;"	p	language:C++	file:
+queue	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * queue = NULL;$/;"	v	language:C++
+record	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^typedef struct record {$/;"	s	language:C++	file:
+record	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^} record;$/;"	t	language:C++	typeref:struct:record	file:
+redistribute_nodes	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * redistribute_nodes(node * root, node * n, node * neighbor, int neighbor_index, $/;"	f	language:C++
+redistribute_nodes	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * redistribute_nodes(node * root, node * n, node * neighbor,$/;"	p	language:C++	file:
+remove_entry_from_node	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * remove_entry_from_node(node * n, int key, node * pointer) {$/;"	f	language:C++
+start_new_tree	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * start_new_tree(int key, record * pointer) {$/;"	f	language:C++
+start_new_tree	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^node * start_new_tree(int key, record * pointer);$/;"	p	language:C++	file:
+true	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	74;"	d	language:C++	file:
+usage_1	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void usage_1( void ) {$/;"	f	language:C++
+usage_1	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void usage_1( void );$/;"	p	language:C++	file:
+usage_2	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void usage_2( void ) {$/;"	f	language:C++
+usage_2	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void usage_2( void );$/;"	p	language:C++	file:
+usage_3	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void usage_3( void ) {$/;"	f	language:C++
+usage_3	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^void usage_3( void );$/;"	p	language:C++	file:
+value	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^	int value;$/;"	m	language:C++	struct:record	file:
+verbose_output	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	/^bool verbose_output = false;$/;"	v	language:C++
+Version	/home/pedrug/CLionProjects/ArvoreB/ArvoreB/Amittai.c	15;"	d	language:C++	file:
