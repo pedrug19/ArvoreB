@@ -1,5 +1,16 @@
 /*
- *  bpt.c  
+ * Trabalho 2 - Implementação de Árvore B+
+ * Por: Pedrenrique G. Guimarães
+ * 	Gabriel Vinícius
+ * 	Gustavo Molina de Souza
+ * 	Luís Marcello Moraes Silva
+ *
+ * Baseado no trabalho de Amittai Aviram, sob licença BSD-3.
+ * O licenciamento original do trabalho está presente neste arquivo
+ * O código original está disponível como software livre em
+ * http://www.amittai.com/prose/bpt.c
+ *
+ * A versão utilizada do software é a versão 1.14
  */
 #define Version "1.14"
 /*
@@ -52,7 +63,7 @@
  *
  */
 
-// Uncomment the line below if you are compiling on Windows.
+//Se estiver compilando usando Windows, descomente a linha a seguir
 // #define WINDOWS
 #include <stdio.h>
 #include <stdlib.h>
@@ -63,8 +74,7 @@
 #define true 1
 #endif
 
-
-// Default order is 4.
+//Ordem padrão é 4
 #define DEFAULT_ORDER 4
 
 // Minimum order is necessarily 3.  We set the maximum
@@ -295,7 +305,22 @@ void usage_1( void ) {
  */
  
 void usage_2( void ) {
-
+printf("Enter any of the following commands after the prompt > :\n"
+	"\ti <k>  -- Insert <k> (an integer) as both key and value).\n"
+	"\tf <k>  -- Find the value under key <k>.\n"
+	"\tp <k> -- Print the path from the root to key k and its associated "
+           "value.\n"
+	"\tr <k1> <k2> -- Print the keys and values found in the range "
+			"[<k1>, <k2>\n"
+	"\td <k>  -- Delete key <k> and its associated value.\n"
+	"\tx -- Destroy the whole tree.  Start again with an empty tree of the "
+           "same order.\n"
+	"\tt -- Print the B+ tree.\n"
+	"\tl -- Print the keys of the leaves (bottom row of the tree).\n"
+	"\tv -- Toggle output of pointer addresses (\"verbose\") in tree and "
+           "leaves.\n"
+	"\tq -- Quit. (Or use Ctl-D.)\n"
+	"\t? -- Print this help message.\n");
 }
 
 
