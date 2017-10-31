@@ -40,6 +40,10 @@ Trabalho de Arvore B+ do Leandro
   ```
   git fetch
   ```
+  Ou então:
+  ```
+  git pull
+  ```
   Para receber as atualizações e estar a par com seus amiguinhos.
     
  ### 7) **Dar commits!**
@@ -72,4 +76,4 @@ Trabalho de Arvore B+ do Leandro
 ### 9) **TIRAR 10 NO TRABALHO**
 Fazendo isso temos um Controle de Versão ótimo, que deixaria a Rogéria orgulhosíssima de seus pupilos de Engenharia de Software! O Leandro ia bater palmas, e o Guilherme ia ficar embasbacado porque a gente sabe usar git e ele não. (Ou será que sabe?)
 
-## **Data de entrega: 15/11/17**
+## **Data de entrega: 21/11/17**
