@@ -1,4 +1,4 @@
-# ArvoreB
+# ArvoreB+
 Trabalho de Arvore B+ do Leandro
 
 ## O que fazer
@@ -8,7 +8,32 @@ Trabalho de Arvore B+ do Leandro
 - Implementação das estruturas referentes ao projeto
 - Tirar 10 no trabalho
 
-## Como fazer?
+## Arvore B+
+
+Árvore B+: Gerar uma sequência de índices
+- Índice denso: aponta p/ a tupla
+- Índice esparso: aponta p/ um intervalo ou conjunto de tuplas
+
+```
+char nome[40];
+char telefone[8];
+char ender[40];
+int idade;
+status(válido);
+prox;
+```
+
+O bloco de dados é um TXT
+
+## Distribuição de Tarefas
+
+- **Dig:** Atualizar Inserção
+- **Molina:** Atualizar Remoção
+- **Pedren:** Manipulação dos Arquivos
+
+## Mas, Pedren, como que usa o Git?
+Ora, caro, gafanhoto! É muito simples:
+
 ### 1) **Baixar o aplicativo/programa do git no seu PC**
   Caso seja Windows: https://git-scm.com/ (Pode ser necessário a instalação do MinGW ou Cygwin, não tenho certeza!)
   Caso seja Linux Ubuntu: (Caso já não esteja instalado)
