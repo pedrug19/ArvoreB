@@ -65,6 +65,7 @@
 
 //Se estiver compilando usando Windows, descomente a linha a seguir
 // #define WINDOWS
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -75,7 +76,7 @@
 #endif
 
 //Ordem padrão é 4
-#define DEFAULT_ORDER 4
+#define DEFAULT_ORDER 5
 
 // Minimum order is necessarily 3.  We set the maximum
 // order arbitrarily.  You may change the maximum order.
@@ -243,10 +244,10 @@ node *delete( node * root, int key );
 void license_notice( void ) {
 	printf("bpt version %s -- Copyright (C) 2010  Amittai Aviram "
 			"http://www.amittai.com\n", Version);
-	printf("This program comes with ABSOLUTELY NO WARRANTY; for details "
-			"type `show w'.\n"
-			"This is free software, and you are welcome to redistribute it\n"
-			"under certain conditions; type `show c' for details.\n\n");
+	printf("Esse programa não possui ABSOLUTAMENTE NENHUMA GARANTIA; para detalhes"
+			"digite `show w'.\n"
+			"Este é um software livre, e você é encorajado a redistribui-lo\n"
+			"sob certas condições; digite 'show c' para detalhes.\n\n");
 }
 
 
@@ -288,13 +289,13 @@ void print_license( int license_part ) {
 /* First message to the user.
  */
 void usage_1( void ) {
-	printf("B+ Tree of Order %d.\n", order);
-    printf("Following Silberschatz, Korth, Sidarshan, Database Concepts, "
-           "5th ed.\n\n"
-           "To build a B+ tree of a different order, start again and enter "
-           "the order\n"
-           "as an integer argument:  bpt <order>  ");
-	printf("(%d <= order <= %d).\n", MIN_ORDER, MAX_ORDER);
+	printf("Arvore B+ de ordem %d.\n", order);
+    printf("Utilizando os Conceitos de Banco de Dados de Silberschatz, Korth, Sidarshan, "
+           "5a ed.\n\n"
+           "Para fazer uma arvore B+ de ordem diferente, reinicie e digite "
+           "a ordem\n"
+           "como um numero inteiro:  bpt <ordem>  ");
+	printf("(%d <= ordem <= %d).\n", MIN_ORDER, MAX_ORDER);
     printf("To start with input from a file of newline-delimited integers, \n"
            "start again and enter the order followed by the filename:\n"
            "bpt <order> <inputfile> .\n");
